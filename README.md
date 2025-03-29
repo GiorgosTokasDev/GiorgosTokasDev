@@ -1,20 +1,13 @@
-<<<<<<< HEAD
-## Hi there 👋
+# 👋 Hi, I'm Giorgos Tokas!  
 
-<!--
-**GiorgosTokasDev/GiorgosTokasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🚀 Passionate about coding  
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- The projects will soon be linked
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
-# GiorgosTokasDev Portofolio
->>>>>>> 835a1ce (Initial commit - portofolio setup)
+## 🛠️ Skills
+- HTML | CSS | Java | C# | c++ | .NET
+- Node.js | SQL | MongoDB
+- Git | GitHub | Deployment
+
+📫 Contact me at: [giorgostokasdev@gmail.com](giorgostokasdev@gmail.com)
