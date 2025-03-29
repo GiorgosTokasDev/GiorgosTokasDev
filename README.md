@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giorgos Tokas!  
 
-💻 Web Developer | 🚀 Passionate about coding  
+💻 Software Developer | 🚀 Passionate about coding  
 
 ## 🛠️ Projects
 - The projects will soon be linked
