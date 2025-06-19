@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giorgos Tokas!  
+# 👋 Hi, I'm George Tokas!  
 
 💻 Software Developer | 🚀 Passionate about coding  
 
