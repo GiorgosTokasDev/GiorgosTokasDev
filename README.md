@@ -1,13 +1,21 @@
-# 👋 Hi, I'm George Tokas!  
+<h1>Hi, I'm George Tokas! </h1>
 
-💻 Software Developer | 🚀 Passionate about coding  
+<h2>👨‍💻 Software Development Projects:</h2>
 
-## 🛠️ Projects
-- The projects will soon be linked
 
-## 🛠️ Skills
-- HTML | CSS | Java | C# | c++ | .NET
-- Node.js | SQL | MongoDB
-- Git | GitHub | Deployment
+<h2>📺 Games made with unity</h2>
 
-📫 Contact me at: [giorgostokasdev@gmail.com](giorgostokasdev@gmail.com)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/giorgos_tokass/
+[linkedin]: www.linkedin.com/in/george-tokasdev
+
+
+
