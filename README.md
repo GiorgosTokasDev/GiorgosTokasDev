@@ -22,7 +22,7 @@ I enjoy learning new technologies and constantly improving how I write and organ
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/giorgos_tokass/
+my linkedin profile
 [linkedin]: www.linkedin.com/in/george-tokasdev
 
 
