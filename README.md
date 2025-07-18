@@ -17,12 +17,11 @@ I enjoy learning new technologies and constantly improving how I write and organ
 
 
 
+my linkedin profile
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-my linkedin profile
 [linkedin]: www.linkedin.com/in/george-tokasdev
 
 
